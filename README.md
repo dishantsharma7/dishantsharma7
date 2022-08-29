@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/imdishantsharma" target="blank"><img src="https://img.shields.io/twitter/follow/imdishantsharma?logo=twitter&style=for-the-badge" alt="imdishantsharma" /></a> </p>
 
-- 🔭 I’m currently working on **Machine Learning**
+- 🔭 I’m currently working on **Web Development and Machine Learning**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms and App development**
 
