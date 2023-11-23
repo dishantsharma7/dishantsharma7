@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms and App development**
 
-- 🤝 I’m looking for help with ** ReactJs, Devops, and AI **
+- 🤝 I’m looking for help with **ReactJs, Devops, and AI**
 
 - 💬 Ask me about **HTML, CSS, JS, and Cricket**
 
