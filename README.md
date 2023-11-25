@@ -4,13 +4,13 @@
 
 <p align="left"> <a href="https://twitter.com/imdishantsharma" target="blank"><img src="https://img.shields.io/twitter/follow/imdishantsharma?logo=twitter&style=for-the-badge" alt="imdishantsharma" /></a> </p>
 
-- 🔭 I’m currently working on **Web Development and Machine Learning**
+- 🔭 I’m currently working on **Full-Stack Development**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms and App development**
+- 🌱 I’m currently learning **Data Structures and Algorithms and DevOps**
 
-- 🤝 I’m looking for help with **ReactJs, Devops, and AI**
+- 🤝 I’m looking for help with **ReactJs, DevOps, and System Design**
 
-- 💬 Ask me about **HTML, CSS, JS, and Cricket**
+- 💬 Ask me about **Frontend Development and Cricket**
 
 - 📫 How to reach me: **sharmadishant007@gmail.com**
 
